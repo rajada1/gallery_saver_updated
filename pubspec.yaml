@@ -28,4 +28,4 @@ flutter:
         package: carnegietechnologies.gallery_saver
         pluginClass: GallerySaverPlugin
       ios:
-        pluginClass: GallerySaverPlugin
+        pluginClass: SwiftGallerySaverPlugin
