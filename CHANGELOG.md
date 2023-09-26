@@ -1,3 +1,6 @@
+## 3.0.0
+*Fixed - upgrade dependencies
+
 ## 2.3.2
 *Fixed - fix url error with query #146
 
