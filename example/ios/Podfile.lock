@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_gallery_saver (0.0.1):
+  - gallery_saver_updated (0.0.1):
     - Flutter
   - image_picker_ios (0.0.1):
     - Flutter
@@ -10,15 +10,15 @@ PODS:
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutter_gallery_saver (from `.symlinks/plugins/flutter_gallery_saver/ios`)
+  - gallery_saver_updated (from `.symlinks/plugins/gallery_saver_updated/ios`)
   - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
   - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  flutter_gallery_saver:
-    :path: ".symlinks/plugins/flutter_gallery_saver/ios"
+  gallery_saver_updated:
+    :path: ".symlinks/plugins/gallery_saver_updated/ios"
   image_picker_ios:
     :path: ".symlinks/plugins/image_picker_ios/ios"
   path_provider_foundation:
@@ -26,10 +26,10 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  flutter_gallery_saver: 8e211394d016a25d9fc09afa3a74ccf2bfedf32b
+  gallery_saver_updated: 4670d020916ed50f0e284ad77fbcbe5d6d85edc9
   image_picker_ios: 4a8aadfbb6dc30ad5141a2ce3832af9214a705b5
   path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
 
 PODFILE CHECKSUM: 1959d098c91d8a792531a723c4a9d7e9f6a01e38
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.12.0

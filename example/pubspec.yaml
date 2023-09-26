@@ -16,7 +16,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_gallery_saver:
+  gallery_saver_updated:
     path: ../
   flutter_lints: ^2.0.0
 

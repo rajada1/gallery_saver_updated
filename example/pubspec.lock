@@ -102,13 +102,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_gallery_saver:
-    dependency: "direct dev"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "3.0.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -135,6 +128,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  gallery_saver_updated:
+    dependency: "direct dev"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "3.0.0"
   http:
     dependency: "direct main"
     description:
